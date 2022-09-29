@@ -1,0 +1,5 @@
+﻿  BasicShape.cpp
+  PaintApp.cpp
+C:\Users\kudos\Desktop\New folder\PaintApp\PaintApp.cpp(193,46): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Generating Code...
+  PaintApp.vcxproj -> C:\Users\kudos\Desktop\New folder\x64\Debug\PaintApp.exe
